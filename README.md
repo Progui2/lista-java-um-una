@@ -1,2 +1,2 @@
-# lista-java-um-una
+# lista-um-java
 Lista de exercicio 1 em java 
